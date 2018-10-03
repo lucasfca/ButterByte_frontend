@@ -1,2 +1,2 @@
-# ButterByte_frontend
+# ButterByte
 Frontend for ButterByte project
