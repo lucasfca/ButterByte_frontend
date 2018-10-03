@@ -1,2 +1,2 @@
 # ButterByte
-Frontend for ButterByte project
+ButterByte project
