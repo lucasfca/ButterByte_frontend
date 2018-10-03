@@ -1,0 +1,17 @@
+/* Estilo do cabeçalho */
+
+#main-header {
+  background-color: #203A45;
+   height: 110px;
+
+}
+
+.page-header {
+	text-align: center;
+}
+
+.navbar-brand {
+	padding: 25px;
+	font-size: 30px;
+	
+}
